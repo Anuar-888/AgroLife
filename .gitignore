@@ -1,0 +1,22 @@
+# Compiled class files
+*.class
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local config (may contain SDK path / secrets)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# APK / AAB output
+*.apk
+*.aab
+
+# Wrapper jar is fetched automatically by Android Studio
+gradle/wrapper/gradle-wrapper.jar

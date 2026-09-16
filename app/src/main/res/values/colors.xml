@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Eco-Light Palette (Restored) -->
+    <color name="background">#F3F7F4</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="primary">#4A9B6A</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#E8F5ED</color>
+    <color name="on_primary_container">#1A3D2A</color>
+
+    <color name="secondary">#8BC4A0</color>
+    <color name="on_secondary">#1A3D2A</color>
+    <color name="tertiary">#D4E8DC</color>
+
+    <color name="text_main">#1E2E24</color>
+    <color name="text_secondary">#6B7B72</color>
+
+    <color name="line">#D8E4DC</color>
+    <color name="divider">#E4EDE7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- UI Elements -->
+    <color name="accent_green">#4A9B6A</color>
+    <color name="accent_green_light">#E8F5ED</color>
+
+    <!-- Legacy aliases (for compatibility) -->
+    <color name="app_bg">@color/background</color>
+    <color name="gold">@color/primary</color>
+    <color name="text_primary">@color/text_main</color>
+    <color name="text_dim">@color/text_secondary</color>
+    <color name="accent">@color/primary</color>
+    <color name="on_gold">@color/on_primary</color>
+    <color name="surface_variant">@color/primary_container</color>
+    <color name="on_surface">@color/text_main</color>
+    <color name="on_surface_variant">@color/text_secondary</color>
+    <color name="gold_bg">@color/primary_container</color>
+    <color name="accent_bg">@color/primary_container</color>
+    <color name="warn">#C47A3A</color>
+    <color name="warn_bg">#FFF6EE</color>
+    <color name="surface_2">@color/tertiary</color>
+
+    <!-- Task colors -->
+    <color name="task_water">#2D9CDB</color>
+    <color name="task_feeding">#27AE60</color>
+    <color name="task_harvest">#EB5757</color>
+</resources>

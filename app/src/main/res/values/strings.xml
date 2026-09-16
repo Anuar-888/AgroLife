@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgroLife</string>
+
+    <string name="nav_home">Главная</string>
+    <string name="nav_tools">Инструменты</string>
+    <string name="nav_chat">Чат</string>
+    <string name="nav_calendar">Календарь</string>
+    <string name="nav_profile">Аккаунт</string>
+
+    <string name="home_title">AgroLife</string>
+    <string name="home_greeting">Доброе утро, Anuar! 👋</string>
+    <string name="home_subtitle">Интеллектуальный помощник агронома</string>
+    <string name="home_search_hint">Найти культуру: малина, чеснок…</string>
+    <string name="home_section_crops">Ваши культуры</string>
+    <string name="home_section_weather">Погода сейчас</string>
+    <string name="home_section_tips">Советы</string>
+    <string name="home_tip1_title">🌦️ Проверяйте прогноз перед подкормкой</string>
+    <string name="home_tip1_body">Дождь смоет часть удобрений с листьев — вносите корневые подкормки за день до осадков или после них.</string>
+    <string name="home_tip2_title">🌱 Сажайте по сезону, а не по календарю года</string>
+    <string name="home_tip2_body">Точные даты посадки зависят от погоды весны/осени в вашем регионе — ориентируйтесь на прогревание почвы.</string>
+
+    <string name="tools_title">Инструменты</string>
+    <string name="tools_subtitle">Быстрые расчёты и напоминания по уходу</string>
+    <string name="tools_reminder_title">⏰ Напоминание по уходу</string>
+    <string name="tools_reminder_empty">Выберите культуру в разделе «Календарь», чтобы увидеть ближайшую задачу.</string>
+    <string name="tools_water_title">💧 Калькулятор полива</string>
+    <string name="tools_water_area_hint">Площадь, м²</string>
+    <string name="tools_water_button">Рассчитать</string>
+    <string name="tools_water_reminder_label">Напоминания о поливе</string>
+    <string name="tools_water_reminder_hint">Уведомление придёт утром в выбранное время, с учётом этапа культуры и прогноза дождя.</string>
+    <string name="tools_water_next_reminder">—</string>
+    <string name="tools_water_no_crop">Выберите культуру в «Календаре», чтобы включить напоминания.</string>
+    <string name="tools_water_permission_denied">Разрешите уведомления в настройках, чтобы получать напоминания о поливе.</string>
+
+    <string name="notification_channel_watering">Напоминания о поливе</string>
+    <string name="notification_channel_watering_desc">Уведомления о необходимости полива ваших культур</string>
+    <string name="tools_light_title">🔆 Световой день</string>
+
+    <string name="chat_persona_name">Асыл — агроном-помощник</string>
+    <string name="chat_persona_status">● на связи</string>
+    <string name="chat_input_hint">Спросите что-нибудь…</string>
+    <string name="chat_api_key_hint">API-ключ Anthropic (только для теста, локально)</string>
+    <string name="chat_no_key_message">Чат пока не подключён к серверу. Вставьте тестовый API-ключ выше или дождитесь backend — тогда ключ не понадобится хранить на телефоне.</string>
+
+    <string name="calendar_title">Календарь</string>
+    <string name="calendar_subtitle">Выберите культуру, чтобы построить план ухода</string>
+    <string name="calendar_empty_title">Пока пусто</string>
+    <string name="calendar_empty_body">Выберите культуру выше, чтобы начать</string>
+    <string name="calendar_plant_date_label">Дата посадки</string>
+    <string name="calendar_weather_section">Погода на неделю</string>
+    <string name="calendar_plan_section">План ухода</string>
+</resources>
