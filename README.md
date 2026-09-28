@@ -6,6 +6,7 @@ AgroLife is an intelligent assistant for agronomists, designed to manage fields 
 
 - `app/`: Android application source code (Java/XML).
 - `backend/`: Node.js/Express API for data synchronization and expert logic.
+- `agrolife-website/`: Responsive web prototype for farmers and agricultural businesses.
 
 ## Key Features
 
@@ -25,3 +26,11 @@ AgroLife is an intelligent assistant for agronomists, designed to manage fields 
 
 1. Open the project in Android Studio.
 2. Build and run the `app` module.
+
+## Website Setup
+
+1. Go to `agrolife-website/`.
+2. Run `npm test` to check the planning logic.
+3. Run `npm run serve` and open `http://localhost:4173/demo.html`.
+
+The web prototype currently supports raspberries, strawberries, and currants. A farmer selects crops, records the planting date for each field, and receives a work plan for watering, fertilizing, inspections, and harvest preparation.
